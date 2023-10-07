@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d122acee","path":"/resources/community-examples.html","title":"Community Examples","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1696722192000,"contributors":[{"name":"Le Minh Tri","email":"ansidev@users.noreply.github.com","commits":1}]},"filePathRelative":"resources/community-examples.md"}');export{e as data};
